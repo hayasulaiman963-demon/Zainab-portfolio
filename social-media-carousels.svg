@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080912"/>
+      <stop offset="100%" stop-color="#181126"/>
+    </linearGradient>
+    <linearGradient id="instaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg6)"/>
+  <circle cx="200" cy="200" r="160" fill="#EC4899" opacity="0.15" filter="blur(60px)"/>
+  <circle cx="600" cy="300" r="150" fill="#8B5CF6" opacity="0.18" filter="blur(55px)"/>
+
+  <g transform="translate(460, 80)">
+    <rect x="0" y="0" width="240" height="320" rx="20" fill="#131B2E" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" opacity="0.7"/>
+    <rect x="20" y="30" width="80" height="8" rx="4" fill="#64748B"/>
+    <rect x="20" y="60" width="200" height="140" rx="12" fill="#1E293B"/>
+    <text x="120" y="250" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Slide 03 / 05</text>
+  </g>
+
+  <g transform="translate(300, 60)">
+    <rect x="0" y="0" width="250" height="340" rx="20" fill="#18233C" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" opacity="0.88"/>
+    <rect x="20" y="30" width="90" height="8" rx="4" fill="#8B5CF6"/>
+    <rect x="20" y="60" width="210" height="160" rx="12" fill="#0F172A"/>
+    <circle cx="125" cy="140" r="35" fill="#38BDF8" opacity="0.5"/>
+    <text x="125" y="260" text-anchor="middle" fill="#CBD5E1" font-size="14" font-family="sans-serif" font-weight="bold">Key Takeaways</text>
+    <text x="125" y="285" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Actionable Growth Steps</text>
+  </g>
+
+  <g transform="translate(120, 40)">
+    <rect x="0" y="0" width="260" height="370" rx="22" fill="#0F172A" stroke="url(#instaGrad)" stroke-width="2.5"/>
+    <rect x="24" y="30" width="120" height="26" rx="13" fill="rgba(236,72,153,0.15)" stroke="#EC4899" stroke-width="1"/>
+    <text x="84" y="47" text-anchor="middle" fill="#F472B6" font-size="11" font-family="sans-serif" font-weight="bold">GROWTH STRATEGY</text>
+    
+    <text x="24" y="105" fill="#ffffff" font-size="24" font-weight="800" font-family="sans-serif">How To Scale</text>
+    <text x="24" y="135" fill="#38BDF8" font-size="24" font-weight="800" font-family="sans-serif">Social Reach</text>
+    <text x="24" y="165" fill="#A78BFA" font-size="24" font-weight="800" font-family="sans-serif">In 2026 ✦</text>
+
+    <rect x="24" y="190" width="212" height="95" rx="14" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)"/>
+    <text x="40" y="225" fill="#CBD5E1" font-size="11" font-family="sans-serif">✔ Hook with high value</text>
+    <text x="40" y="248" fill="#CBD5E1" font-size="11" font-family="sans-serif">✔ Visual hierarchy</text>
+    <text x="40" y="270" fill="#CBD5E1" font-size="11" font-family="sans-serif">✔ Saveable call-to-action</text>
+
+    <g transform="translate(24, 310)">
+      <circle cx="18" cy="18" r="16" fill="url(#instaGrad)"/>
+      <text x="18" y="23" text-anchor="middle" fill="#ffffff" font-weight="bold" font-size="12" font-family="sans-serif">ZM</text>
+      <text x="45" y="16" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">Zainab Mahmood</text>
+      <text x="45" y="29" fill="#94A3B8" font-size="9" font-family="sans-serif">Digital Marketer &amp; Designer</text>
+    </g>
+  </g>
+
+  <g transform="translate(440, 395)">
+    <rect x="0" y="0" width="260" height="44" rx="22" fill="rgba(15, 23, 42, 0.95)" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+    <text x="30" y="27" fill="#EC4899" font-size="15">♥ 1.4K</text>
+    <text x="100" y="27" fill="#38BDF8" font-size="15">💬 248</text>
+    <text x="165" y="27" fill="#10B981" font-size="15">↗ 520</text>
+    <text x="215" y="27" fill="#F59E0B" font-size="15">🔖 890</text>
+  </g>
+</svg>

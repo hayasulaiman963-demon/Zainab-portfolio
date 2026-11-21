@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080914"/>
+      <stop offset="100%" stop-color="#0e172a"/>
+    </linearGradient>
+    <linearGradient id="aiGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg4)"/>
+  <circle cx="400" cy="200" r="160" fill="#06B6D4" opacity="0.15" filter="blur(60px)"/>
+  <circle cx="650" cy="350" r="140" fill="#8B5CF6" opacity="0.15" filter="blur(50px)"/>
+
+  <rect x="80" y="50" width="640" height="400" rx="24" fill="rgba(15, 23, 42, 0.85)" stroke="rgba(6, 182, 212, 0.35)" stroke-width="1.5"/>
+  
+  <rect x="110" y="90" width="380" height="230" rx="16" fill="#0B0F19" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="300" cy="205" r="50" fill="url(#aiGlow)" opacity="0.6" filter="blur(20px)"/>
+  
+  <g stroke="rgba(56, 189, 248, 0.4)" stroke-width="1.2">
+    <line x1="220" y1="160" x2="300" y2="130"/>
+    <line x1="300" y1="130" x2="380" y2="170"/>
+    <line x1="380" y1="170" x2="330" y2="240"/>
+    <line x1="330" y1="240" x2="240" y2="230"/>
+    <line x1="240" y1="230" x2="220" y2="160"/>
+    <line x1="220" y1="160" x2="380" y2="170"/>
+  </g>
+  <circle cx="220" cy="160" r="4" fill="#06B6D4"/>
+  <circle cx="300" cy="130" r="4" fill="#8B5CF6"/>
+  <circle cx="380" cy="170" r="4" fill="#EC4899"/>
+  <circle cx="330" cy="240" r="4" fill="#10B981"/>
+  <circle cx="240" cy="230" r="4" fill="#38BDF8"/>
+  
+  <text x="300" y="275" text-anchor="middle" fill="#38BDF8" font-family="sans-serif" font-size="13" font-weight="bold">✦ 4K Neural Motion Synthesis</text>
+  
+  <g transform="translate(110, 340)">
+    <rect x="0" y="0" width="380" height="54" rx="14" fill="rgba(30, 41, 59, 0.8)" stroke="rgba(255,255,255,0.1)"/>
+    <text x="16" y="24" fill="#94A3B8" font-family="sans-serif" font-size="10">PROMPT</text>
+    <text x="16" y="42" fill="#F8FAFC" font-family="sans-serif" font-size="12" font-weight="500">"Hyper-realistic cinematic product unveil, dramatic studio lighting..."</text>
+  </g>
+
+  <g transform="translate(515, 90)">
+    <rect x="0" y="0" width="175" height="80" rx="12" fill="rgba(30, 41, 59, 0.6)" stroke="rgba(255,255,255,0.08)"/>
+    <text x="14" y="24" fill="#94A3B8" font-family="sans-serif" font-size="11">Consistency Engine</text>
+    <text x="14" y="48" fill="#10B981" font-family="sans-serif" font-size="16" font-weight="bold">99.4% Match</text>
+    <text x="14" y="66" fill="#64748B" font-family="sans-serif" font-size="10">Subject Lock Active</text>
+
+    <rect x="0" y="95" width="175" height="80" rx="12" fill="rgba(30, 41, 59, 0.6)" stroke="rgba(255,255,255,0.08)"/>
+    <text x="14" y="119" fill="#94A3B8" font-family="sans-serif" font-size="11">Rendering Engine</text>
+    <text x="14" y="143" fill="#A78BFA" font-family="sans-serif" font-size="16" font-weight="bold">Midjourney + Runway</text>
+    <text x="14" y="161" fill="#64748B" font-family="sans-serif" font-size="10">High Dynamic Range</text>
+
+    <rect x="0" y="190" width="175" height="115" rx="12" fill="rgba(30, 41, 59, 0.6)" stroke="rgba(255,255,255,0.08)"/>
+    <text x="14" y="214" fill="#94A3B8" font-family="sans-serif" font-size="11">Output Formats</text>
+    <text x="14" y="238" fill="#38BDF8" font-family="sans-serif" font-size="13">9:16 Vertical Reels</text>
+    <text x="14" y="258" fill="#38BDF8" font-family="sans-serif" font-size="13">16:9 Landscape 4K</text>
+    <text x="14" y="278" fill="#38BDF8" font-family="sans-serif" font-size="13">1:1 Feed Ready</text>
+  </g>
+</svg>

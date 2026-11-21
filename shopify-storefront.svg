@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="100%" stop-color="#111d2e"/>
+    </linearGradient>
+    <linearGradient id="greenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)"/>
+  <circle cx="250" cy="150" r="160" fill="#10B981" opacity="0.12" filter="blur(55px)"/>
+  <circle cx="600" cy="350" r="140" fill="#3B82F6" opacity="0.15" filter="blur(50px)"/>
+
+  <rect x="80" y="50" width="640" height="400" rx="20" fill="rgba(15, 23, 42, 0.9)" stroke="rgba(16, 185, 129, 0.3)" stroke-width="1.5"/>
+  
+  <circle cx="110" cy="78" r="5" fill="#EF4444"/>
+  <circle cx="126" cy="78" r="5" fill="#F59E0B"/>
+  <circle cx="142" cy="78" r="5" fill="#10B981"/>
+  <rect x="165" y="67" width="350" height="22" rx="6" fill="#1E293B"/>
+  <text x="180" y="82" fill="#94A3B8" font-family="sans-serif" font-size="11">https://mystore.myshopify.com/collections/bestsellers</text>
+
+  <g transform="translate(110, 105)">
+    <rect x="0" y="0" width="580" height="120" rx="14" fill="url(#greenGlow)" opacity="0.85"/>
+    <text x="30" y="50" fill="#ffffff" font-family="sans-serif" font-weight="bold" font-size="24">Modern E-Commerce Store</text>
+    <text x="30" y="75" fill="#E0F2FE" font-family="sans-serif" font-size="13">Automated Product Imports • High-Converting Checkout Flow</text>
+    <rect x="30" y="85" width="110" height="24" rx="6" fill="#0F172A"/>
+    <text x="85" y="101" text-anchor="middle" fill="#ffffff" font-size="10" font-family="sans-serif" font-weight="bold">SHOP NOW</text>
+  </g>
+
+  <g transform="translate(110, 245)">
+    <rect x="0" y="0" width="130" height="180" rx="12" fill="rgba(30, 41, 59, 0.7)" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="10" y="10" width="110" height="90" rx="8" fill="#1E293B"/>
+    <circle cx="65" cy="55" r="24" fill="#38BDF8" opacity="0.4"/>
+    <text x="12" y="120" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">Wireless Pods</text>
+    <text x="12" y="136" fill="#10B981" font-size="12" font-weight="bold" font-family="sans-serif">$49.99</text>
+    <rect x="10" y="148" width="110" height="20" rx="4" fill="#3B82F6"/>
+    <text x="65" y="162" text-anchor="middle" fill="#fff" font-size="9" font-family="sans-serif">Add to Cart</text>
+
+    <rect x="150" y="0" width="130" height="180" rx="12" fill="rgba(30, 41, 59, 0.7)" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="160" y="10" width="110" height="90" rx="8" fill="#1E293B"/>
+    <circle cx="215" cy="55" r="24" fill="#A855F7" opacity="0.4"/>
+    <text x="162" y="120" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">Smart Band V2</text>
+    <text x="162" y="136" fill="#10B981" font-size="12" font-weight="bold" font-family="sans-serif">$79.00</text>
+    <rect x="160" y="148" width="110" height="20" rx="4" fill="#3B82F6"/>
+    <text x="215" y="162" text-anchor="middle" fill="#fff" font-size="9" font-family="sans-serif">Add to Cart</text>
+
+    <rect x="300" y="0" width="130" height="180" rx="12" fill="rgba(30, 41, 59, 0.7)" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="310" y="10" width="110" height="90" rx="8" fill="#1E293B"/>
+    <circle cx="365" cy="55" r="24" fill="#EC4899" opacity="0.4"/>
+    <text x="312" y="120" fill="#ffffff" font-size="11" font-weight="bold" font-family="sans-serif">RGB Ambient Lamp</text>
+    <text x="312" y="136" fill="#10B981" font-size="12" font-weight="bold" font-family="sans-serif">$34.50</text>
+    <rect x="310" y="148" width="110" height="20" rx="4" fill="#3B82F6"/>
+    <text x="365" y="162" text-anchor="middle" fill="#fff" font-size="9" font-family="sans-serif">Add to Cart</text>
+
+    <rect x="450" y="0" width="130" height="180" rx="12" fill="rgba(16, 185, 129, 0.12)" stroke="#10B981" stroke-width="1.5"/>
+    <text x="515" y="35" text-anchor="middle" fill="#34D399" font-size="12" font-family="sans-serif" font-weight="bold">✦ Setup Ready</text>
+    <text x="515" y="65" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="bold" font-family="sans-serif">500+</text>
+    <text x="515" y="82" text-anchor="middle" fill="#94A3B8" font-size="10" font-family="sans-serif">Products Imported</text>
+    <text x="515" y="115" text-anchor="middle" fill="#38BDF8" font-size="18" font-weight="bold" font-family="sans-serif">99.8%</text>
+    <text x="515" y="132" text-anchor="middle" fill="#94A3B8" font-size="10" font-family="sans-serif">Fast Checkout</text>
+    <rect x="465" y="148" width="100" height="20" rx="4" fill="#10B981"/>
+    <text x="515" y="162" text-anchor="middle" fill="#022c22" font-size="9" font-weight="bold" font-family="sans-serif">Shopify Verified</text>
+  </g>
+</svg>

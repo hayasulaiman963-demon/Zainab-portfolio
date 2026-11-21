@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0815"/>
+      <stop offset="100%" stop-color="#130f26"/>
+    </linearGradient>
+    <linearGradient id="gradPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <circle cx="300" cy="250" r="160" fill="#EC4899" opacity="0.14" filter="blur(55px)"/>
+  <circle cx="550" cy="300" r="130" fill="#8B5CF6" opacity="0.16" filter="blur(45px)"/>
+
+  <g transform="translate(120, 40)">
+    <rect x="0" y="0" width="220" height="420" rx="36" fill="#0F172A" stroke="#334155" stroke-width="4"/>
+    <rect x="10" y="10" width="200" height="400" rx="28" fill="#1E1B4B"/>
+    <circle cx="100" cy="170" r="45" fill="url(#gradPink)"/>
+    <polygon points="93,150 115,170 93,190" fill="#ffffff"/>
+    
+    <rect x="170" y="200" width="22" height="22" rx="11" fill="rgba(255,255,255,0.2)"/>
+    <rect x="170" y="240" width="22" height="22" rx="11" fill="rgba(255,255,255,0.2)"/>
+    <rect x="170" y="280" width="22" height="22" rx="11" fill="rgba(255,255,255,0.2)"/>
+    
+    <text x="20" y="330" fill="#ffffff" font-weight="bold" font-family="sans-serif" font-size="12">@zainab_creatives</text>
+    <text x="20" y="350" fill="#CBD5E1" font-family="sans-serif" font-size="10">High Retention Hook • Sound Synced</text>
+    
+    <rect x="20" y="365" width="100" height="24" rx="12" fill="rgba(236,72,153,0.3)" stroke="#EC4899" stroke-width="1"/>
+    <text x="70" y="381" text-anchor="middle" fill="#F472B6" font-size="10" font-family="sans-serif" font-weight="bold">🔥 450K+ Views</text>
+  </g>
+
+  <g transform="translate(380, 70)">
+    <rect x="0" y="0" width="360" height="360" rx="20" fill="rgba(15, 23, 42, 0.85)" stroke="rgba(139, 92, 246, 0.3)" stroke-width="1.5"/>
+    
+    <text x="24" y="38" fill="#F8FAFC" font-family="sans-serif" font-weight="bold" font-size="16">Premiere &amp; CapCut Timeline</text>
+    <text x="24" y="60" fill="#94A3B8" font-family="sans-serif" font-size="12">Precision Cuts • Sound Design • Fast Pacing</text>
+    
+    <rect x="24" y="90" width="312" height="36" rx="8" fill="#1E293B"/>
+    <rect x="30" y="94" width="90" height="28" rx="6" fill="#8B5CF6" opacity="0.85"/>
+    <rect x="125" y="94" width="110" height="28" rx="6" fill="#EC4899" opacity="0.85"/>
+    <rect x="240" y="94" width="90" height="28" rx="6" fill="#3B82F6" opacity="0.85"/>
+    <text x="40" y="112" fill="#fff" font-family="sans-serif" font-size="10">Hook Clip [0-3s]</text>
+    <text x="135" y="112" fill="#fff" font-family="sans-serif" font-size="10">B-Roll &amp; Zoom</text>
+    
+    <rect x="24" y="140" width="312" height="36" rx="8" fill="#1E293B"/>
+    <path d="M30 158 Q 50 144, 70 158 T 110 158 T 150 144 T 190 158 T 230 142 T 270 158 T 320 158" stroke="#38BDF8" stroke-width="2" fill="none"/>
+    <text x="30" y="190" fill="#64748B" font-family="sans-serif" font-size="10">Audio / Sound Effects SFX Track</text>
+
+    <rect x="24" y="210" width="312" height="36" rx="8" fill="#1E293B"/>
+    <rect x="40" y="216" width="70" height="24" rx="6" fill="#F59E0B" opacity="0.8"/>
+    <rect x="130" y="216" width="85" height="24" rx="6" fill="#10B981" opacity="0.8"/>
+    <text x="50" y="232" fill="#fff" font-family="sans-serif" font-size="10">Text Pop</text>
+    <text x="140" y="232" fill="#fff" font-family="sans-serif" font-size="10">Dynamic Sub</text>
+
+    <line x1="160" y1="80" x2="160" y2="260" stroke="#EF4444" stroke-width="2"/>
+    <polygon points="155,75 165,75 160,85" fill="#EF4444"/>
+    
+    <rect x="24" y="280" width="95" height="26" rx="8" fill="rgba(59,130,246,0.15)" stroke="#3B82F6" stroke-width="1"/>
+    <text x="71" y="297" text-anchor="middle" fill="#60A5FA" font-size="11" font-family="sans-serif">TikTok Viral</text>
+    
+    <rect x="130" y="280" width="105" height="26" rx="8" fill="rgba(139,92,246,0.15)" stroke="#8B5CF6" stroke-width="1"/>
+    <text x="182" y="297" text-anchor="middle" fill="#C084FC" font-size="11" font-family="sans-serif">FB Reels Skits</text>
+  </g>
+</svg>
